@@ -509,7 +509,7 @@ a.boxed-btn, a.bordered-btn, a.cart-btn {
 
 ----------------------------------------------------------------------------- */
 ul.navbar-nav li.nav-item a.nav-link, ul.navbar-nav li.nav-item.active a.nav-link {
-  color: #051922;
+  color: white;
 }
 
 .top-header-area {
@@ -584,6 +584,7 @@ nav.main-menu ul ul.sub-menu li a {
   font-size: 13px;
 }
 
+
 nav.main-menu ul > li:hover ul {
   opacity: 1;
   visibility: visible;
@@ -599,7 +600,7 @@ nav.main-menu > ul li:last-child {
 
 .site-logo {
   float: left;
-  width: 200px;
+  width: 100px;
 }
 
 ul.sub-menu li:last-child {
@@ -618,7 +619,7 @@ ul.sub-menu li:last-child {
 }
 
 .main-menu-wrap {
-  position: relative;
+  position: relatives;
 }
 
 .mean-container a.meanmenu-reveal {
@@ -626,7 +627,7 @@ ul.sub-menu li:last-child {
 }
 
 .mean-container a.meanmenu-reveal span {
-  background-color: #051922;
+  background-color: white;
 }
 
 .mean-container .mean-nav ul li a {
@@ -1826,7 +1827,7 @@ a.video-play-btn {
 }
 
 .feature-bg:after {
-  background-image: url(../img/siteimg.png);
+  background-image: url(../img/company-logos/site.png);
   position: absolute;
   right: 0;
   top: 0;
